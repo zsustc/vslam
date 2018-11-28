@@ -1,0 +1,14 @@
+/home/zbox/Downloads/clion-2018.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/zbox/CLionProjects/slambook/Test/ch8/useLK
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Found CUDA: /usr/local/cuda (found suitable exact version "8.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zbox/CLionProjects/slambook/Test/ch8/useLK/cmake-build-debug

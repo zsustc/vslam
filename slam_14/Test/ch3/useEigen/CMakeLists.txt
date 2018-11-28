@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+#project(useEigen)
+project(useGeometry)
+add_executable(useGeometry useGeometry.cpp)
+#add_executable(useEigeny useEigen.cpp)
+include_directories("/usr/include/eigen3")

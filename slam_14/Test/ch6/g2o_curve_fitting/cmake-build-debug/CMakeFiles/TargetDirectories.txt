@@ -1,0 +1,4 @@
+/home/zbox/CLionProjects/slambook/Test/ch6/g2o_curve_fitting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zbox/CLionProjects/slambook/Test/ch6/g2o_curve_fitting/cmake-build-debug/CMakeFiles/Virtualtest.dir
+/home/zbox/CLionProjects/slambook/Test/ch6/g2o_curve_fitting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zbox/CLionProjects/slambook/Test/ch6/g2o_curve_fitting/cmake-build-debug/CMakeFiles/g2o_curve_fitting.dir

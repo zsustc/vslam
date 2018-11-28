@@ -1,0 +1,4 @@
+/home/zbox/CLionProjects/slambook/Test/ch12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zbox/CLionProjects/slambook/Test/ch12/cmake-build-debug/CMakeFiles/loop_closure.dir
+/home/zbox/CLionProjects/slambook/Test/ch12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zbox/CLionProjects/slambook/Test/ch12/cmake-build-debug/CMakeFiles/feature_training.dir

@@ -1,0 +1,47 @@
+/home/zbox/Downloads/clion-2018.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/zbox/CLionProjects/slambook/Test/ch13/dense_RGBD
+-- Eigen found (include: /usr/include/eigen3, version: 3.2.92)
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   thread
+--   date_time
+--   iostreams
+--   serialization
+--   chrono
+--   atomic
+--   regex
+-- FLANN found (include: /usr/include, lib: optimized;/usr/lib/x86_64-linux-gnu/libflann_cpp.so;debug;/usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+-- FLANN found (include: /usr/include, lib: optimized;/usr/lib/x86_64-linux-gnu/libflann_cpp.so;debug;/usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+-- OpenNI found (include: /usr/include/ni, lib: /usr/lib/libOpenNI.so)
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+** WARNING ** io features related to libusb-1.0 will be disabled
+-- Could NOT find Qhull (missing: QHULL_LIBRARIES QHULL_INCLUDE_DIRS) 
+** WARNING ** surface features related to qhull will be disabled
+-- looking for PCL_COMMON
+-- looking for PCL_KDTREE
+-- looking for PCL_OCTREE
+-- looking for PCL_SEARCH
+-- looking for PCL_GEOMETRY
+-- looking for PCL_SAMPLE_CONSENSUS
+-- looking for PCL_FILTERS
+-- looking for PCL_2D
+-- looking for PCL_FEATURES
+-- looking for PCL_ML
+-- looking for PCL_SEGMENTATION
+-- looking for PCL_IO
+-- looking for PCL_KEYPOINTS
+-- looking for PCL_STEREO
+-- looking for PCL_SURFACE
+-- looking for PCL_REGISTRATION
+-- looking for PCL_TRACKING
+-- looking for PCL_RECOGNITION
+-- looking for PCL_GPU_CONTAINERS
+-- looking for PCL_GPU_UTILS
+-- looking for PCL_GPU_OCTREE
+-- looking for PCL_GPU_SEGMENTATION
+-- looking for PCL_GPU_FEATURES
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zbox/CLionProjects/slambook/Test/ch13/dense_RGBD/cmake-build-debug

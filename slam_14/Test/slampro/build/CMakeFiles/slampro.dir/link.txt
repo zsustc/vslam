@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/slampro.dir/main.cpp.o  -o slampro -rdynamic 
